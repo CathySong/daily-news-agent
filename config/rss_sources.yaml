@@ -1,0 +1,36 @@
+rss_sources:
+  general_medical:
+    description: "综合医学与健康新闻"
+    feeds:
+      - name: Medscape
+        url: https://www.medscape.com/public/rss
+      - name: Medical Xpress
+        url: https://medicalxpress.com/rss-feed
+      - name: Medical News Today
+        url: https://www.medicalnewstoday.com/rss
+
+  public_health_policy:
+    description: "公共卫生 & 政策"
+    feeds:
+      - name: KFF Health News
+        url: https://kffhealthnews.org/feed/
+      - name: CDC EID Journal
+        url: https://wwwnc.cdc.gov/eid/rss/ahead-of-print.xml
+      - name: CMS News
+        url: https://www.cms.gov/about-cms/contact/rss-feeds
+
+  research_journals:
+    description: "医学期刊 & 科研进展"
+    feeds:
+      - name: JAMA Medical News
+        url: https://jamanetwork.com/channels/medical-news/rss
+      - name: STAT News
+        url: https://statnews.com/feed/
+
+  covid_specific:
+    description: "COVID & 长新冠专题"
+    feeds:
+      - name: NPR Coronavirus
+        url: https://feeds.npr.org/816541428/rss.xml
+      - name: Guardian Coronavirus
+        url: https://www.theguardian.com/world/coronavirus-outbreak/rss
