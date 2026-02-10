@@ -1,0 +1,28 @@
+long_covid:
+  primary_keywords:
+    - long covid
+    - long-covid
+    - post-covid
+    - post covid condition
+    - post-acute covid
+    - PACS
+
+  medical_terms:
+    - chronic fatigue
+    - ME/CFS
+    - brain fog
+    - dysautonomia
+    - POTS
+    - mitochondrial dysfunction
+    - immune dysregulation
+
+  policy_terms:
+    - disability
+    - workforce impact
+    - public health emergency
+    - healthcare burden
+
+  exclude_keywords:
+    - opinion
+    - personal story
+    - unverified
